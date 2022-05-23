@@ -1,0 +1,7 @@
+Definition: Raw Building Blocks of a Software Apllication.
+
+Examples of Data Structure:
+
+1. Arrays, linked list, graph, etc..
+
+
